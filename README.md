@@ -15,6 +15,12 @@
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/Devesh0797/Devesh0797/master/assets/google_play.gif"  height="120" />
   </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Devesh0797/Devesh0797/master/assets/android.gif"  height="120" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Devesh0797/Devesh0797/master/assets/firebase.gif"  height="120" />
+  </a>
  </p>
 
 ### 📫 How to reach me? 
