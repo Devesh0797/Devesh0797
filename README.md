@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on at **Accenture**
+- 🔭 I’m currently working at **Accenture**
 - ⚙️ Also develop Android applications
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devesh1807/)
