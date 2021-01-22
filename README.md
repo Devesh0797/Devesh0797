@@ -10,13 +10,10 @@
     <img src="https://raw.githubusercontent.com/Devesh0797/Devesh0797/master/assets/exercise.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Devesh0797/Devesh0797/master/assets/exercise.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/Devesh0797/Devesh0797/master/assets/java.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Devesh0797/Devesh0797/master/assets/exercise.gif"  height="75" />
-  </a>
-  <a href="https://tekton.dev/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/Devesh0797/Devesh0797/master/assets/exercise.png"  height="75" />
+    <img src="https://raw.githubusercontent.com/Devesh0797/Devesh0797/master/assets/google_play.gif"  height="75" />
   </a>
  </p>
 
