@@ -7,9 +7,9 @@
 
 ### 📫 How to reach me? 
 
-⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/devesh1807/)👨🏻‍💻
-⦿ Follow me on [Twitter](https://twitter.com/Devesh180797)🐦
-⦿ Shoot me on [E-Mail](mailto:devesh97goel@gmail.com)💌
+⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/devesh1807/)💻<br>
+⦿ Follow me on [Twitter](https://twitter.com/Devesh180797)🐦<br>
+⦿ Shoot me on [E-Mail](mailto:devesh97goel@gmail.com)💌<br>
 
 <!--
 **Devesh0797/Devesh0797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
