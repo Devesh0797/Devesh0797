@@ -2,7 +2,7 @@
   
   I am Devesh Goel having 8+ month professional experience in developing android application. 🎯
 
-- 🔭 I’m currently working at **Accenture** as a software Tester.
+- 🔭 I’m currently working at **Accenture** as a Salesforce Developer.
 - ⚙️ Also develop Android applications.
 
 <p float="left">
